@@ -12,5 +12,6 @@ pip install -r requirements.txt
 ```
 # Run the application
 ```bash
+cd code
 python main_Ours.py
 ```
