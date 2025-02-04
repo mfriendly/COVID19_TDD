@@ -1,0 +1,5 @@
+abbr,cumulative_persons_fully_vaccinated,cumulative_persons_vaccinated,cumulative_vaccine_doses_administered,new_persons_fully_vaccinated,new_vaccine_doses_administered
+NSW,,-0.317,,,
+NT,0.336,0.42,0.387,,0.346
+QLD,,0.312,,,0.345
+TAS,0.668,0.634,0.655,0.411,0.46

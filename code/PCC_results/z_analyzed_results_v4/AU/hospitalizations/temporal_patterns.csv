@@ -1,0 +1,6 @@
+,lag,lag,lag,lag,lag,lag,best_orig_corr,best_orig_corr,best_orig_corr,best_orig_corr,best_orig_corr
+,mean,median,std,min,max,count,mean,median,std,min,max
+feature,,,,,,,,,,,
+current_ventilator_patients,26.333,27.0,23.007,3,49,3,0.776,0.77,0.162,0.617,0.942
+current_intensive_care_patients,15.0,4.5,22.73,2,49,4,0.746,0.735,0.151,0.594,0.92
+current_hospitalized_patients,5.0,4.0,5.099,0,12,4,0.697,0.767,0.249,0.344,0.91

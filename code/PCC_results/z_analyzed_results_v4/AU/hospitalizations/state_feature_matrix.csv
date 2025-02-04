@@ -1,0 +1,6 @@
+abbr,current_hospitalized_patients,current_intensive_care_patients,current_ventilator_patients
+ACT,0.344,,
+NSW,0.91,0.92,0.942
+QLD,,0.594,0.617
+SA,0.712,0.647,
+VIC,0.822,0.822,0.77

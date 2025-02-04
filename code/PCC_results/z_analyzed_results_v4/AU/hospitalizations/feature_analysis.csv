@@ -1,0 +1,6 @@
+feature,# over PCC of 0.3,# over PCC of 0.7,# over PCC of 0.8,avg. correlation,max. correlation,median correlation,avg. lag,median lag,std correlation,p-value,CI 95% lower,CI 95% upper
+current ventilator patients,3,2,1,0.776,0.942,0.77,26.3,27.0,0.162,0.0,0.373,1.18
+"current intensive care
+patients",4,2,2,0.746,0.92,0.735,15.0,4.5,0.151,0.0,0.505,0.987
+"current hospitalized
+patients",4,3,2,0.697,0.91,0.767,5.0,4.0,0.249,0.0,0.3,1.093

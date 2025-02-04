@@ -1,0 +1,12 @@
+feature,abbr,lag,best_orig_corr,p_value
+current_ventilator_patients,NSW,49,0.9417292347393702,5.485009932770904e-297
+current_intensive_care_patients,NSW,49,0.9196738428703448,4.25660841073556e-255
+current_hospitalized_patients,NSW,12,0.9098143738609016,1.608817138554392e-217
+current_hospitalized_patients,VIC,5,0.8221332139897252,9.158257837684618e-124
+current_intensive_care_patients,VIC,6,0.8219512476210794,1.3013294207084839e-136
+current_ventilator_patients,VIC,27,0.7697746631493811,8.632843762549348e-121
+current_hospitalized_patients,SA,3,0.7115080456289845,1.7298307485736127e-06
+current_intensive_care_patients,SA,3,0.6473372217722505,0.0001586838095978
+current_ventilator_patients,QLD,3,0.6171252302051301,5.450932826340398e-40
+current_intensive_care_patients,QLD,2,0.5941045487927894,5.474370223551361e-38
+current_hospitalized_patients,ACT,0,0.3435868214730145,2.616804266531072e-07

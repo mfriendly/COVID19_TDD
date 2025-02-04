@@ -1,0 +1,4 @@
+abbr,feature,lag,best_corr,best_orig_corr,p_value
+SA,current_hospitalized_patients,3,0.7115080456289845,0.7115080456289845,1.7298307485736127e-06
+SA,current_intensive_care_patients,3,0.6473372217722505,0.6473372217722505,0.00015868380959781878
+SA,current_ventilator_patients,3,0.6448476267835412,0.6448476267835412,

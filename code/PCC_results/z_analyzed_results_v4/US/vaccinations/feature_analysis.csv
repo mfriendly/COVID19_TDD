@@ -1,0 +1,34 @@
+feature,# over PCC of 0.3,# over PCC of 0.7,# over PCC of 0.8,avg. correlation,max. correlation,median correlation,avg. lag,median lag,std correlation,p-value,CI 95% lower,CI 95% upper
+"cumulative persons fully
+vaccinated pfizer",46,22,8,0.673,0.85,0.694,29.5,35.5,0.126,0.001,0.636,0.71
+"cumulative persons fully
+vaccinated",46,22,6,0.669,0.845,0.697,30.3,36.0,0.127,0.001,0.631,0.707
+"cumulative vaccine doses
+administered pfizer",46,23,6,0.682,0.847,0.699,25.5,30.5,0.107,0.0,0.65,0.714
+"cumulative vaccine doses
+administered",46,22,6,0.68,0.844,0.69,24.9,29.5,0.109,0.0,0.648,0.712
+"cumulative persons fully
+vaccinated moderna",46,20,4,0.65,0.836,0.683,32.6,40.5,0.125,0.0,0.613,0.687
+"cumulative persons
+vaccinated",46,20,4,0.67,0.844,0.69,28.5,32.5,0.106,0.0,0.638,0.701
+"cumulative persons fully
+vaccinated janssen",46,25,6,0.685,0.854,0.709,32.1,37.5,0.118,0.0,0.65,0.72
+"cumulative vaccine doses
+administered janssen",46,25,6,0.688,0.853,0.709,31.0,36.0,0.115,0.0,0.653,0.722
+"cumulative vaccine doses
+administered moderna",47,18,2,0.64,0.838,0.673,29.6,35.0,0.115,0.001,0.606,0.674
+new persons vaccinated,31,0,0,0.372,0.556,0.387,30.8,38.0,0.15,0.0,0.318,0.427
+"new vaccine doses
+administered pfizer",10,0,0,0.466,0.678,0.444,49.0,49.0,0.139,0.0,0.367,0.565
+"new persons fully
+vaccinated pfizer",9,0,0,0.454,0.608,0.432,49.0,49.0,0.101,0.0,0.376,0.531
+"new persons fully
+vaccinated moderna",7,0,0,0.437,0.646,0.358,49.0,49.0,0.143,0.0,0.305,0.569
+"new vaccine doses
+administered moderna",6,1,0,0.521,0.745,0.522,49.0,49.0,0.136,0.0,0.379,0.664
+"new vaccine doses
+administered",19,0,0,0.359,0.605,0.372,40.9,48.0,0.175,0.0,0.275,0.443
+"new persons fully
+vaccinated janssen",3,0,0,0.437,0.53,0.447,47.7,49.0,0.098,0.0,0.194,0.68
+"new vaccine doses
+administered janssen",3,0,0,0.433,0.521,0.441,47.7,49.0,0.093,0.0,0.202,0.663

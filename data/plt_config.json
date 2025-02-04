@@ -1,0 +1,18 @@
+{
+    "savefig.dpi": 300,
+    "figure.dpi": 300,
+    "figure.figsize": [8, 6],
+    "font.size": 21,
+    "axes.titlesize": 21,
+    "axes.labelsize": 21,
+    "xtick.labelsize": 21,
+    "ytick.labelsize": 21,
+    "axes.grid": false,
+    "grid.color": "gray",
+    "grid.linestyle": "--",
+    "legend.fontsize": 21,
+    "legend.loc": "best",
+    "savefig.directory": "",
+    "lines.linewidth": 2,
+    "lines.linestyle": "-"
+}

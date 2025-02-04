@@ -1,0 +1,8 @@
+,lag,lag,lag,lag,lag,lag,best_orig_corr,best_orig_corr,best_orig_corr,best_orig_corr,best_orig_corr
+,mean,median,std,min,max,count,mean,median,std,min,max
+feature,,,,,,,,,,,
+cumulative_vaccine_doses_administered,49.0,49.0,0.0,49,49,2,0.521,0.521,0.19,0.387,0.655
+cumulative_persons_fully_vaccinated,49.0,49.0,0.0,49,49,2,0.502,0.502,0.235,0.336,0.668
+new_persons_fully_vaccinated,48.0,48.0,,48,48,1,0.411,0.411,,0.411,0.411
+new_vaccine_doses_administered,46.667,48.0,2.309,44,48,3,0.384,0.346,0.066,0.345,0.46
+cumulative_persons_vaccinated,47.75,49.0,2.5,44,49,4,0.262,0.366,0.409,-0.317,0.634

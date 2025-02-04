@@ -1,0 +1,3 @@
+abbr,feature,lag,best_corr,best_orig_corr,p_value
+NT,current_hospitalized_patients,40,0.13741220826379383,0.13741220826379383,0.0012446357374764005
+NT,current_intensive_care_patients,12,0.027477147732460863,0.027477147732460863,0.7135695575774281

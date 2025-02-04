@@ -1,0 +1,14 @@
+feature,# over PCC of 0.3,# over PCC of 0.7,# over PCC of 0.8,avg. correlation,max. correlation,median correlation,avg. lag,median lag,std correlation,p-value,CI 95% lower,CI 95% upper
+"current intensive care
+patients",45,3,0,0.522,0.764,0.51,25.8,35.0,0.109,0.0,0.489,0.554
+new hospitalized patients,42,3,2,0.471,0.809,0.453,28.9,44.0,0.117,0.0,0.434,0.508
+"current hospitalized
+patients",46,3,0,0.513,0.778,0.535,27.3,44.0,0.117,0.0,0.478,0.548
+"cumulative intensive care
+patients",12,0,0,0.43,0.496,0.451,6.0,0.5,0.055,0.0,0.395,0.466
+"cumulative ventilator
+patients",4,0,0,0.464,0.47,0.464,21.0,17.0,0.006,0.0,0.455,0.473
+"cumulative hospitalized
+patients",42,0,0,0.477,0.697,0.473,10.8,6.0,0.106,0.0,0.444,0.51
+current ventilator patients,22,1,0,0.486,0.733,0.481,44.4,49.0,0.121,0.0,0.432,0.54
+new intensive care patients,3,0,0,0.367,0.398,0.363,48.3,49.0,0.029,0.0,0.294,0.44

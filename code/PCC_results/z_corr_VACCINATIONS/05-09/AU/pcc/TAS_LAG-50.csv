@@ -1,0 +1,4 @@
+abbr,feature,lag,best_corr,best_orig_corr,p_value
+TAS,cumulative_persons_fully_vaccinated,49,0.667790292991175,0.667790292991175,2.5192379914133338e-39
+TAS,cumulative_vaccine_doses_administered,49,0.6551964964528105,0.6551964964528105,1.941164163512948e-37
+TAS,cumulative_persons_vaccinated,49,0.6343193170070678,0.6343193170070678,1.6768177350761446e-34

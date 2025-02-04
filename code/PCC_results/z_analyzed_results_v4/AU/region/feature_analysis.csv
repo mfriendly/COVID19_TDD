@@ -1,0 +1,5 @@
+feature,# over PCC of 0.3,# over PCC of 0.7,# over PCC of 0.8,avg. correlation,max. correlation,median correlation,avg. lag,median lag,std correlation,p-value,CI 95% lower,CI 95% upper
+ACT,1,1,1,0.966,0.966,0.966,13.0,13.0,,0.0,,
+WA,3,0,0,0.243,0.576,0.522,48.0,49.0,0.531,0.0,-1.075,1.562
+QLD,3,2,2,0.825,0.99,0.91,26.0,25.0,0.219,0.022,0.28,1.37
+SA,1,1,1,0.99,0.99,0.99,25.0,25.0,,0.0,,
